@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>maxres</key>
+	<integer>90</integer>
+	<key>minres</key>
+	<integer>25</integer>
+	<key>minshort</key>
+	<real>3</real>
+	<key>umax</key>
+	<real>0.1</real>
+	<key>urange</key>
+	<array>
+		<string>0</string>
+		<string>0.015</string>
+		<string>0.03</string>
+		<string>0.05</string>
+		<string>0.1</string>
+		<string>1</string>
+	</array>
+</dict>
+</plist>
